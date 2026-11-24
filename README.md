@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Rabih 👋
 
-<!--
-**rabihsaab-90/Rabihsaab-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a first-year Engineering student at York University with an interest in engineering design, technology, and software development. I enjoy learning how things work, exploring new tools, and building projects that help turn ideas into practical solutions. I'm currently developing my skills through coursework and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming, 🛠️ Tools & Technologies, 📐 Engineering
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,electron,nodejs,git,github,vscode)](https://skillicons.dev)
+
+**Programming & Development**  
+TypeScript • JavaScript • React • HTML • CSS • Tailwind CSS • Node.js
+
+**Development & Tools**  
+Electron • Git • GitHub • VS Code • Vite
+
+**Engineering & Design**  
+Engineering documentation • Design trade-offs • Decision matrices • Requirements traceability • Technical reporting
+
+## 🚀 Projects
+
+### 🏗️ [FrameLytix](https://github.com/rabihsaab-90/FrameLytix)
+
+An open-source, offline-first desktop engineering workspace for organizing design projects and documenting technical decisions. FrameLytix helps engineering students and teams manage requirements, compare design alternatives using weighted decision matrices, connect calculations and technical drawings, track risks, and generate reports. Built with TypeScript, React, and Electron, with support for viewing PDF documents and STL 3D models.
+
+## 📚 Currently Learning
+
+Continuing to build my foundation in engineering, programming, and technical problem-solving at York University. Through FrameLytix, I'm gaining experience with desktop application development, user interface design, and tools for documenting engineering decisions.
+
+---
+
+> Learning through engineering. Building through curiosity.
