@@ -23,9 +23,9 @@ Quantity takeoffs • Unit-rate cost estimating • Value engineering • Lifecy
 
 A civil engineering quantity takeoff and unit-rate cost estimator that runs entirely in the browser. Enter real dimensions for a concrete podium, a municipal roadway or a storm sewer, and SiteCost calculates material quantities, applies waste, unit rates, overhead, contingency and tax, and shows every formula step by step. It also compares design alternatives (value engineering), suggests explainable cost savings without compromising engineering requirements, pulls official construction price indexes from Statistics Canada and the US BLS every week, and exports CSV and print-ready PDF reports. Built with React, TypeScript, Vite and Tailwind CSS, with 124 automated tests and CI/CD on GitHub Actions.
 
-### 🏗️ [FrameLytix](https://github.com/rabihsaab-90/FrameLytix)
+### 🏗️ [FrameLytix](https://github.com/rabihsaab-90/FrameLytix) · [Download](https://github.com/rabihsaab-90/FrameLytix/releases/latest)
 
-An open-source, offline-first desktop engineering workspace for organizing design projects and documenting technical decisions. FrameLytix helps engineering students and teams manage requirements, compare design alternatives using weighted decision matrices, connect calculations and technical drawings, track risks, and generate reports. Built with TypeScript, React, and Electron, with support for viewing PDF documents and STL 3D models.
+An offline-first desktop engineering workspace that keeps every design decision connected to the requirements, calculations, drawings and evidence behind it. Record requirements, compare design alternatives with a weighted decision matrix — with pass/fail mandatory constraints kept separate from scoring, so the highest score is never automatically the recommendation — document calculations with rendered equations, view PDF drawings and STL 3D models, link everything in a traceability matrix, track risks, and export a PDF or HTML design report. Projects are plain folders on your own computer with no accounts or cloud services. Built with Electron, React and TypeScript, with unit, integration and Playwright end-to-end tests and CI on Windows and macOS.
 
 ## 📚 Currently Learning
 
